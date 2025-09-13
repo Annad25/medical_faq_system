@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+chromadb==0.6.3
+google-genai==1.7.0
+python-dotenv
+pandas
+requests
