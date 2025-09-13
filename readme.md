@@ -3,6 +3,8 @@
 This is a Retrieval-Augmented Generation (RAG) based chatbot that answers patient queries using a curated medical FAQ dataset.  
 The chatbot retrieves relevant answers from a knowledge base and generates clear, natural responses using Google's Gemini model.
 
+To get started, download the code base or medical_faq_system_zip file and follow the setup instructions.
+
 ---
 
 ##  Dataset
